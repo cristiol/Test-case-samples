@@ -1,6 +1,4 @@
-This repository contains test Case samples written by myself for different real webpages, in order to verify their functionalities.
-Tese test cases check happy path and negative path also I used techniques like boundary value and equivalence partitioning.
-I also used for these test cases testrail.
+This repository contains test case samples written by myself for different real webpages in order to verify their functionalities. These test cases check the happy path and the negative path. I also used techniques like boundary value and equivalence partitioning. I also used Testrail for these test cases.
 
 Test cases for login function on https://www.netflix.com/ro-en/login 
 
