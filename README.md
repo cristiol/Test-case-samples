@@ -18,7 +18,7 @@ Test cases for login function on https://www.netflix.com/ro-en/login
 
 ![testcase7](https://github.com/cristiol/Test-case-samples/assets/142798921/5fc7c78a-1f54-4d62-8094-be7473db56c1)
 
-These test cases for https://www.cinemacity.ro/#/ using Boundary value or boundary value and equivalence partitioning techniques to test the order ticket functionality
+These test cases for https://www.cinemacity.ro/#/ using Boundary value and equivalence partitioning techniques to test the order ticket functionality
 
 ![cinemacity_selectTickets](https://github.com/cristiol/Test-case-samples/assets/142798921/0c70ff34-20bd-4c21-bf38-f59cbaf698f3)
 
