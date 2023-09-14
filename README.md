@@ -1,8 +1,12 @@
-This repository contains test case samples written by myself for different real webpages in order to verify their functionalities. These test cases check the happy path and the negative path. I also used techniques like boundary value and equivalence partitioning. I also used Testrail for these test cases.
+# Test cases using Testrail
 
-Test cases for login function on https://www.netflix.com/ro-en/login 
+This repository contains test case samples written by myself for different real webpages in order to verify their functionalities. These test cases check the **happy path** and the **negative path**. I also used techniques like **boundary value** and **equivalence partitioning**. I also used Testrail for these test cases.
+
+## Testing login functionality for Netflix. https://www.netflix.com/ro-en/login 
 
 ![netflix_login](https://github.com/cristiol/Test-case-samples/assets/142798921/bd8e14aa-6387-44f7-bd9f-a3d48c699e87)
+
+## Test cases
 
 ![testcase1](https://github.com/cristiol/Test-case-samples/assets/142798921/8e39e978-f03b-4861-93d3-2142dd087f13)
 
@@ -18,7 +22,7 @@ Test cases for login function on https://www.netflix.com/ro-en/login
 
 ![testcase7](https://github.com/cristiol/Test-case-samples/assets/142798921/5fc7c78a-1f54-4d62-8094-be7473db56c1)
 
-These test cases for https://www.cinemacity.ro/#/ using Boundary value and equivalence partitioning techniques to test the order ticket functionality
+## These test cases for https://www.cinemacity.ro/#/ using Boundary value and equivalence partitioning techniques to test the order ticket functionality
 
 ![cinemacity_selectTickets](https://github.com/cristiol/Test-case-samples/assets/142798921/0c70ff34-20bd-4c21-bf38-f59cbaf698f3)
 
